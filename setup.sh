@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-pip install -r requirements.txt
+
+$VIRTUAL_ENV/bin/pip install -r requirements.txt
