@@ -4,9 +4,9 @@ Ce projet vise à modéliser les émissions de gaz à effet de serre ($CO_2$, $N
 
 ## Lancer la simulation interactive
 
-Cliquez sur le bouton ci-dessous pour ouvrir directement l’interface interactive (sans afficher le code) :
+Cliquez sur le badge ci-dessous pour ouvrir le notebook dans Google Colab :
 
-[![Launch Voila](https://img.shields.io/badge/Launch%20Voila-orange?logo=jupyter)](https://mybinder.org/v2/gh/qgaillar/Design-Project/main?urlpath=voila/render/Mod%C3%A8le%20Simulation/Mod%C3%A8le%20Simulation%20P%C3%A9riph%C3%A9rique%20Parisien.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qgaillar/Design-Project/blob/main/Modele_Simulation/Modele_Simulation_Peripherique_Parisien.ipynb)
 
 ## Contenu du dépôt Github
 

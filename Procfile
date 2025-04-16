@@ -1,0 +1,1 @@
+web: voila Modele_Simulation/Modele_Simulation_Peripherique_Parisien.ipynb --port=$PORT --no-browser --Voila.base_url="/" --Voila.trust_xheaders=True
