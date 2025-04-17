@@ -10,7 +10,7 @@ Cliquez sur le badge ci-dessous pour ouvrir le notebook dans Google Colab :
 
 ## Contenu du dépôt Github
 
-"""
+```
 Design-Project/
 ├── Analyse_type_vehicule_periph/
 │   ├── compo_trafic.ipynb
@@ -26,4 +26,4 @@ Design-Project/
 ├── README.md
 ├── requirements.txt
 └── runtime.txt
-"""
+```
