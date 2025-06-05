@@ -9,7 +9,7 @@ Deux modèles sont à disposition :
 
 ## Lancer la simulation interactive
 
-L'ancien modèle est encore disponible via une interface web :
+L'ancien modèle devrait encore être disponible via l'interface web suivante :
 
 [![Launch Voilà](https://img.shields.io/badge/Launch%20App-Render-orange?logo=voila)](https://design-project-erl7.onrender.com)
 
@@ -33,6 +33,9 @@ Design-Project/
 │   └── newplot.png
 ├── Comparaison_données_actuelles/
 │   ├── comparaison_airparif.ipynb
+│   ├── profils_horaires_NO2.csv
+│   ├── profils_horaires_PM10.csv
+│   ├── profils_horaires_PM25.csv
 │   └── data/
 │       ├── NO2/
 │       ├── PM10/
