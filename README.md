@@ -41,7 +41,7 @@ Design-Project/
 │   ├── Ancien_modele/
 │   │   └── model.ipynb
 │   ├── Modele_Simulation_Peripherique_Parisien.ipynb   # Ancien modèle
-│   └── Modele_Simulation_A_Partir_Comptage_BP.ipynb    # Nouveau modèle principal
+│   └── Modele_Emissions_Polluants_A_Partir_Comptages_BP.ipynb    # Nouveau modèle principal
 ├── voila/
 │   └── voila.json
 ├── Procfile
